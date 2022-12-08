@@ -1,7 +1,7 @@
 apache-beam==2.18.0
 avro-python3==1.9.1
 cachetools==3.1.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 crcmod==1.7
 dill==0.3.1.1
